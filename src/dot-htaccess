@@ -1,0 +1,6 @@
+Redirect /calendar/ http://fairmontflyers.org/#calendar
+Redirect /club-documents/ http://fairmontflyers.org/#documents
+Redirect /contact-us/ http://fairmontflyers.org/#contactus
+Redirect /field/ http://fairmontflyers.org/#location
+Redirect /new-rc-pilot/ http://fairmontflyers.org/#new_pilots
+Redirect /renew-membership/ http://fairmontflyers.org/#membership
